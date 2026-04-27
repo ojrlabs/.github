@@ -1,30 +1,27 @@
-# 🚀 PsicomanagerPro
+# 🚀 OJR Lab Solutions Ltda
 
-Sistema SaaS para gestão de consultórios de psicologia
+Desenvolvemos soluções sob medida para automatizar processos, aumentar a eficiência e impulsionar o crescimento do seu negócio.
 
 ## 🧠 Sobre
 
-O PsicomanagerPro é uma plataforma completa para psicólogos gerenciarem:
-- Pacientes
-- Agenda
-- Financeiro
-- Emissão de NFS-e
+Sobre a OJR Lab Solutions Ltda
+Somos especialistas em desenvolver soluções de software que simplificam processos e potencializam resultados.
 
 ## 🏗️ Arquitetura
 
 - Frontend: Next.js + Tailwind CSS
-- Backend: NestJS + Prisma
+- Backend: NestJS + Prisma + RabbitMQ + Redis + Minio
 - Infra: Docker + VPS + OpenResty
 
 ## 🔗 Links
 
-- 🌐 Site: https://psicomanagerpro.com.br
+- 🌐 Site: https://wwww.ojrlabsolutions.com.br
 - 📄 Documentação: (link aqui)
 - 🧪 API Docs: (link swagger)
 
 ## 👨‍💻 Time
 
-- Luis Ostrowski
+- Luis Antonio Ostrowski Junior
 
 ---
 
