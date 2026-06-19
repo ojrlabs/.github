@@ -29,10 +29,13 @@ Somos especialistas em desenvolver soluções de software que simplificam proces
 
 | Projeto | Descrição |
 |--------|----------|
-| app-psicomanagerpro | Frontend Next.js |
-| api-psicomanagerpro | Backend NestJS |
-| auth-service-manager | Autenticação |
-| nfse-service-manager | Emissão de NFS-e |
+| app-careflow | Frontend Next.js - Aplicação de gestão de Saúde |
+| app-careflow-admin | Frontend Next.js - Administração dos serviços de OJR Lab |
+| api-careflow | Backend NestJS - Aplicação de gestão de Saúde |
+| auth-service-manager | Micro serviço de Autenticação - Multi-Tenant |
+| fiscal-service-manager | Micro serviço Fiscal Emissão de NFS-e - Multi-Tenant |
+| billing-service-manager | Micro serviço de pagamento - Multi-Tenant |
+| audit-service-manager | Micro serviço auditória de registros - Multi-Tenant |
 
 ---
 
